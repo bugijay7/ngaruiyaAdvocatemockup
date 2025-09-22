@@ -9,7 +9,7 @@ function Navbar() {
         {/* Left (Logo + Firm Name) */}
         <div className="navbar-start flex items-center">
           <a href="#hero">
-            <img src={lawLogo} alt="Law Firm Logo" className="h-36 w-auto cursor-pointer" />
+            <img src={lawLogo} alt="Law Firm Logo" className="h-26 w-auto cursor-pointer" />
           </a>
         </div>
 
