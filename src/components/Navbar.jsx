@@ -36,7 +36,7 @@ function Navbar() {
         {/* Mobile Menu Button */}
         <div className="lg:hidden flex items-center">
           <div className="dropdown dropdown-end">
-            <label tabIndex={0} className="btn btn-ghost text-white">
+            <label tabIndex={0} className="btn btn-ghost text-blue-800">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="h-6 w-6"
